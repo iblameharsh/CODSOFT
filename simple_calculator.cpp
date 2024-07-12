@@ -22,9 +22,10 @@ int main()
     long double number1;
     long double number2;
     int choice;
-    cout << "enter number 1" << endl;
+    cout<<"\n*** SIMPLE CALCULATOR ***\n";
+    cout << "enter number 1:" << endl;
     cin >> number1;
-    cout << "enter number 2" << endl;
+    cout << "enter number 2:" << endl;
     cin >> number2;
     cout << "<-OPERATIONS->" << endl
          << "1. To add number 1 and number 2" << endl
